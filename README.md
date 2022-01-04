@@ -1,2 +1,2 @@
 # eslz
-Azure Clous Adoption Framework
+Azure Cloud Adoption Framework
